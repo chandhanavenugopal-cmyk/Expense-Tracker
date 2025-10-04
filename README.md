@@ -6,9 +6,9 @@
 
 
 ### Team Members
-- Member 1: Jayasooria K - College of Engineering and Management Punnapra
+- Member 1: Chandhana Venugopal - College of Engineering and Management Punnapra
 - Member 2: Arja J Nair- College of Engineering and Management Punnapra
-- Member 3: Hrithika Prathap-College of Engineering and Management Punnapra
+- Member 3: Amitha S-College of Engineering and Management Punnapra
 
 ### Hosted Project Link
 README.md
@@ -68,8 +68,6 @@ For Hardware:
 ![Schematic](Add your schematic diagram here)
 *Add caption explaining the schematic*
 
-# Build Photos
-![Falconz](Falconz.jpeg)
 
 
 ![Components](Add photo of your components here)
@@ -91,8 +89,9 @@ For Hardware:
 
 ## Team Contributions
 - [Arja J Nair]: [ HTML ]
-- [Hrithika Prathap]: [ JS ]
-- [Jayasooria.K]: [ CSS ]
+- [Chandhana Venugopal]: [ JS ]
+- [Amitha S]: [ CSS ]
 
 ---
 Made with ❤️ at TinkerHub
+
